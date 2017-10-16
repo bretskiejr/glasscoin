@@ -1,0 +1,9 @@
+Building GlassCoin
+
+See doc/readme-qt.rst for instructions on building GlassCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlassCoin.
+
+See doc/build-*.txt for instructions on building glasscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlassCoin.
